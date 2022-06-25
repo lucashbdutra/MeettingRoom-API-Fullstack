@@ -3,7 +3,7 @@
 
 ##Sobre o projeto
 
-Desenvolvimento de uma API fullstack, com back-end em SpringBoot e o front-end em Angular. Back-end totalmente Restfull usando Spring Framework, com todos os m�todos HTTP mais usados (GET, PUT, DELETE e POST), tratamento de exce��es personalizadas e *testes unitário. Front-enb�sido usando o framework angular.
+Desenvolvimento de uma API fullstack, com back-end em SpringBoot e o front-end em Angular. Back-end totalmente Restfull usando Spring Framework, com todos os métodos HTTP mais usados (GET, PUT, DELETE e POST), tratamento de excessões personalizadas e *testes unitários. Front-end usando o framework angular.
 
 ## Tecnologias utilizadas
 ### Back end
@@ -22,7 +22,7 @@ Desenvolvimento de uma API fullstack, com back-end em SpringBoot e o front-end e
 
 ## Como executar o projeto
 
-##Pré-requisitos
+##PrÃ©-requisitos
 ### Back end
 - Java = 18.0.1.1
 - Maven = 3.8.6
@@ -34,10 +34,10 @@ Desenvolvimento de uma API fullstack, com back-end em SpringBoot e o front-end e
 
 
 ```bash
-## clonar repositório
+## clonar repositÃ³rio
 git clone https://github.com/lucashbdutra/MeettingRoom-API-Fullstack
 
-## entrar na pasta do projeto que você quer executar
+## entrar na pasta do projeto que vocÃª quer executar
 cd path-to-file
 
 ## executar o projeto
