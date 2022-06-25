@@ -1,0 +1,7 @@
+### Angular ###
+.angular
+.vscode
+./node_modules
+.browserslistrc
+.editorconfig
+
