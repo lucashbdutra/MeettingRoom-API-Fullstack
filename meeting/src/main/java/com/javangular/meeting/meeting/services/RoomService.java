@@ -12,7 +12,9 @@ import java.util.Map;
 
 @RequiredArgsConstructor
 @Service
-public class RoomService {
+public class
+
+RoomService {
 
     public final RoomRepository roomRepository;
 
